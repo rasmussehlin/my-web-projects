@@ -1,4 +1,4 @@
-# Some of my web projects
+# Sketchbook projects
 This is a collection of simple web projects that I've written over the years. Should be viewed as an art school applicant's sketchbook. Nothing fancy, just fun.
 
 Sources will be found in the appropriate folder, and links to the live websites below.
