@@ -1,5 +1,5 @@
 # Sketchbook projects
-This is a collection of simple web projects that I've written over the years. Should be viewed as an art school applicant's sketchbook. Nothing fancy, just fun.
+This is a collection of simple web projects that I've written over the years. Nothing fancy, mostly fun.
 
 Sources will be found in the appropriate folder, and links to the live websites below.
 
