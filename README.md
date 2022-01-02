@@ -5,7 +5,7 @@ Sources will be found in the appropriate folder, and links to the live websites 
 
 ## The "projects"
 ### [Simple Chess Clock](https://zehle.github.io/chess_clock/chess_clock.html)
-We played alot of chess in school. There were more chess boards than clocks, so we made our own.
+We played alot of chess in school. There were more chess boards than clocks, so we made our own. Best used on a phone/tablet.
 
 ### [Draw in Stereo](https://zehle.github.io/draw_in_stereo/draw_in_stereo.html)
 Draw stereoscopic paintings in your browser. A very simple drawing demo where you draw on two canvases at the same time. You need to use a scrollable mouse. The scroll level determines the distance between the dots on the different canvases; resulting in you being able to determine the "depth" that you draw at. Use [this cross-eyed technique](https://youtu.be/zBa-bCxsZDk) (at your own risk, probably not awesome for your eyes...) to see your masterpiece in it's 3-dimensional glory.
